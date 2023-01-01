@@ -29,7 +29,7 @@ To run the code in this project, you will need to install the following librarie
 
 Once the libraries are installed, you can run the code in the Jupyter notebooks in the notebooks directory.
 
-References
-<a href="https://steamdb.info/">Steam</a>
-<a href="https://www.kaggle.com/datasets/rush4ratio/video-game-sales-with-ratings">Kaggle data</a>
-fbprophet documentation
+References<br>
+* <a href="https://steamdb.info/">Steam</a>
+* <a href="https://www.kaggle.com/datasets/rush4ratio/video-game-sales-with-ratings">Kaggle data</a>
+* fbprophet documentation
