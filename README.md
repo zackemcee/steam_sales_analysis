@@ -30,5 +30,6 @@ To run the code in this project, you will need to install the following librarie
 Once the libraries are installed, you can run the code in the Jupyter notebooks in the notebooks directory.
 
 References
-VGChartz
+<a href="https://steamdb.info/">Steam</>
+<a href="https://www.kaggle.com/datasets/rush4ratio/video-game-sales-with-ratings">Kaggle data</>
 fbprophet documentation
